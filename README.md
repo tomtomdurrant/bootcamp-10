@@ -11,7 +11,7 @@ The contents of this repo are solely used for mentoring purposes.
 
 ### Preparation
 + MySql CRUD operations (SELECT, DELETE, INSERT, UPDATE, JOINS)
-+ PluralSight is free this April, good source of learning material [Signup](https://www.pluralsight.com/offer/2020/free-april-month?oid=7014Q0000022aAOQAY&utm_term=&aid=701j0000002BGi1AAG&promo=&oid=&utm_source=branded&utm_medium=digital_paid_search_google&utm_campaign=UK_Brand_E&utm_content=&gclid=CjwKCAjwhOD0BRAQEiwAK7JHmJrsSvdJ1VqrBOg0fsJqUt0GLgDNksd0wZbp_bv7GVkZnToQTpKPLhoCIdgQAvD_BwE)
++ PluralSight is free this April, good source of learning [Signup](https://www.pluralsight.com/offer/2020/free-april-month?oid=7014Q0000022aAOQAY&utm_term=&aid=701j0000002BGi1AAG&promo=&oid=&utm_source=branded&utm_medium=digital_paid_search_google&utm_campaign=UK_Brand_E&utm_content=&gclid=CjwKCAjwhOD0BRAQEiwAK7JHmJrsSvdJ1VqrBOg0fsJqUt0GLgDNksd0wZbp_bv7GVkZnToQTpKPLhoCIdgQAvD_BwE)
 
 ![RemoteMob](remotemob_header_screen_grau.png?raw=true)
 ## Day 2
