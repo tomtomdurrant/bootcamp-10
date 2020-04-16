@@ -22,7 +22,7 @@ The contents of this repo are solely used for mentoring purposes.
 + (C#) Atleast .net core 2.2 runtime [Download SDK](https://dotnet.microsoft.com/download/dotnet-core).
 + (C#) **Get started create sample web application** [C#][Contribution guidelines for this project](DotNetCore/README.md)
 + (Javascript) VS Code [Download](https://code.visualstudio.com/download)
-+ (Java IDE) [IntelliJ] (https://www.jetbrains.com/idea/promo/ultimate/?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmF42gqqmvH1COAnUfTZ3Z4H-YveHj_kgE93Jqjr62Y0IzybduD25EhoCn_IQAvD_BwE)
++ (Java IDE) [IntelliJ](https://www.jetbrains.com/idea/promo/ultimate/?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmF42gqqmvH1COAnUfTZ3Z4H-YveHj_kgE93Jqjr62Y0IzybduD25EhoCn_IQAvD_BwE)
 + (Database IDE) [MySqlWorkbench](https://www.mysql.com/products/workbench/)
 + Database Entity Relationship Modelling [LucidChart](https://www.lucidchart.com/users/login)
 + (WhiteBoard) [Miro](https://miro.com/) 
