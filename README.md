@@ -20,7 +20,7 @@ The contents of this repo are solely used for mentoring purposes.
 + Must have GITHUB account [SignUp](https://github.com/zuto).
 + (C#) VisualStudio 2019/2017 [Download](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019).
 + (C#) Atleast .net core 2.2 runtime [Download SDK](https://dotnet.microsoft.com/download/dotnet-core).
-+ (C#) **Get started create sample web application** [C#](DotNetCore/README.md)
++ (C#) **Get started create sample web application** [SourceCode](DotNetCore/README.md)
 + (Javascript) VS Code [Download](https://code.visualstudio.com/download)
 + (Java IDE) [IntelliJ](https://www.jetbrains.com/idea/promo/ultimate/?gclid=CjwKCAjwhOD0BRAQEiwAK7JHmF42gqqmvH1COAnUfTZ3Z4H-YveHj_kgE93Jqjr62Y0IzybduD25EhoCn_IQAvD_BwE)
 + (Database IDE) [MySqlWorkbench](https://www.mysql.com/products/workbench/)
