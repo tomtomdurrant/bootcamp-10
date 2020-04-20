@@ -1,3 +1,9 @@
-SELECT * 
+SELECT Cheeses.name
 FROM readonly.Cheeses
-WHERE Cheeses.seller_name IN ('Tesco', 'Cheeses are us');
+ORDER BY Cheeses.seller_name
+;
+
+SELECT Cheeses.name
+FROM readonly.Cheeses
+ORDER BY Cheeses.seller_name DESC
+;
