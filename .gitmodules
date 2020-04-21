@@ -1,0 +1,3 @@
+[submodule "EventWebApi"]
+	path = EventWebApi
+	url = https://github.com/tomtomdurrant/EventWebApi.git
